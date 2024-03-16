@@ -1,0 +1,14 @@
+[pack]
+	buildbitmaps = false
+[core]
+	symlinks = false
+	repositoryformatversion = 0
+	filemode = false
+	logallrefupdates = true
+	bare = false
+[user]
+	name = Win10
+	email = Win10@DESKTOP-1BSA9Q4
+[remote "origin"]
+	url = https://kapb2006@github.com/kapb2006/Proyecto-De-Aula-Autolavado.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
